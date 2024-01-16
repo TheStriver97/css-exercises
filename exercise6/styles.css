@@ -28,11 +28,15 @@ body {
     color: rgb(0, 0, 0);
     font-size: 20px;
   }
+  .confirm{
+    background-color: green;
+    color: white;
+  }
   
-  .child {
+ .text.child {
     color: rgb(0, 0, 0);
-    font-weight: 800;
     font-size: 14px;
+    font-weight: 1000;
   }
   
   div.text {
